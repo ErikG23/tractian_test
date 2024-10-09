@@ -19,6 +19,7 @@ dependencies:
   flutter_triple: ^3.0.0
   fpdart: ^1.1.0
   flutter_svg: ^2.0.10+1
+  mocktail: ^1.0.4
 
 dev_dependencies:
   flutter_test:
