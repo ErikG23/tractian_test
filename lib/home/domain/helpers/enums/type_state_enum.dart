@@ -1,0 +1,4 @@
+enum TypeSensorEnum {
+  critical,
+  sensor,
+}
