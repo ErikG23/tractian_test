@@ -1,25 +1,24 @@
 # Tractian Challenge - Project Overview
 
-# Principais tecnologias, arquitetura e mais.
+# Main technologies, architecture and more.
 
-- Clean Dart: Proposta de Arquitetura Limpa para o Dart/Flutter.
-- Modular: Injeção de dependência e gerenciamento de rotas.
-- Triple: Gerenciamento de estado
-- Dio: Responsável por requisições HTTPs
-- Isolate (compute): Melhorar processamento de dados e performance.
-- MediaQuery: Telas responsivas.
-- Tema personalizado para padronização e evitar código repetitivo.
+- Clean Dart: Clean Architecture proposal for Dart/Flutter.
+- Modular: Dependency injection and route management.
+- Triple: State management
+- Dio: Responsible for HTTP requests
+- Isolate (compute): Improve data processing and performance.
+- MediaQuery: Responsive screens.
+- Custom theme to standardize and avoid repetitive code.
 - Design Pattern
 - Clean Code
 - SOLID
 - TDD
 
-# Possíveis melhorias por falta de tempo
-- Criar arquivo de teste e utilizar o Mocktail e Coverage para garantir 100% da cobertura.
-- Refatoração de código: refatoração principal de código.
-- Otimização de desempenho: o desempenho geral do aplicativo pode ser otimizado ainda mais refatorando certos componentes para reduzir reconstruções desnecessárias e melhorar o desempenho de rolagem.
+# Possible improvements due to lack of time
+- Increase test coverage with Coverage
+- Code refactoring: major code refactoring.
+- Performance optimization: overall application performance can be further optimized by refactoring certain components to reduce unnecessary rebuilds and improve scrolling performance.
 
 
-# Em uso (Vídeo)
+# In use (Video)
 https://github.com/user-attachments/assets/9fff7e99-f60b-4ece-9a3f-8ee79f84e68f
-
