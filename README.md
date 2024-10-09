@@ -12,6 +12,7 @@
 - Design Pattern
 - Clean Code
 - SOLID
+- TDD
 
 # Possíveis melhorias por falta de tempo
 - Criar arquivo de teste e utilizar o Mocktail e Coverage para garantir 100% da cobertura.
